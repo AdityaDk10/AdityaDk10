@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👋 Hi, I’m Aditya Dabbiru Kashyap
+
+💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🎓 M.Sc. Computer Science @ Universität Siegen
+📍 Siegen, Germany
+📫 aditya.dabbirukashyap@gmail.com
+
+🔗 LinkedIn
 <!--
 **AdityaDk10/AdityaDk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
