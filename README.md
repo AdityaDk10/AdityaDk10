@@ -9,7 +9,7 @@
 🌟 About Me
 
 🔭 I’m currently working on:
-AI-assisted research platforms and full-stack systems integrating ML workflows, automation, and scalable architectures.
+Optimising AI to make it more useful and full-stack systems integrating ML workflows, automation, and scalable architectures.
 
 🌱 I’m currently learning:
 Advanced concepts in Large Language Models, Neuro-symbolic AI, and cloud-native orchestration for intelligent applications.
