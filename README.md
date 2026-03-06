@@ -1,7 +1,7 @@
 👋 Hi, I’m Aditya Dabbiru Kashyap
 
-💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🎓 M.Sc. Computer Science @ Universität Siegen
-📍 Siegen, Germany
+Research Assistant @ DFKI (German Research centre for Artificial Intelligence) | 🎓 M.Sc. Computer Science @ Universität Siegen
+📍 Saarbrücken, Germany
 📫 aditya.dabbirukashyap@gmail.com
 🔗 LinkedIn
 
@@ -9,13 +9,14 @@
 🌟 About Me
 
 🔭 I’m currently working on:
+VLMs for Autonomous Driving applications
 Optimising AI to make it more useful and full-stack systems integrating ML workflows, automation, and scalable architectures.
 
 🌱 I’m currently learning:
 Advanced concepts in Large Language Models, Neuro-symbolic AI, and cloud-native orchestration for intelligent applications.
 
 👯 I’m looking to collaborate on:
-Open-source projects that merge AI, full-stack development, and automation — especially tools that make developers’ lives easier.
+Open-source projects that merge Research, AI, full-stack development, and automation — especially tools that make developers’ lives easier.
 
 🤔 I’m looking for help with:
 Exploring agent-based AI and retrieval-augmented reasoning for explainable, reliable decision-making.
