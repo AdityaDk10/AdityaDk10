@@ -9,7 +9,7 @@ Research Assistant @ DFKI (German Research centre for Artificial Intelligence) |
 🌟 About Me
 
 🔭 I’m currently working on:
-VLMs for Autonomous Driving applications,
+VLMs and World Models for Autonomous Driving applications,
 Optimising AI to make it more useful and full-stack systems integrating ML workflows, automation, and scalable architectures.
 
 🌱 I’m currently learning:
