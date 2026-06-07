@@ -1,6 +1,6 @@
 👋 Hi, I’m Aditya Dabbiru Kashyap
 
-Research Assistant @ DFKI (German Research centre for Artificial Intelligence) | 🎓 M.Sc. Computer Science @ Universität Siegen
+AI Research Assistant @ DFKI (German Research centre for Artificial Intelligence) | 🎓 M.Sc. Computer Science @ Universität Siegen
 📍 Saarbrücken, Germany
 📫 aditya.dabbirukashyap@gmail.com
 🔗 LinkedIn
